@@ -4,11 +4,21 @@ description: "Portfólio acadêmico e profissional. Projetos de estatística, an
 url: "https://cristoffer-santos.github.io"
 baseurl: ""
 
-# Tema padrão limpo do GitHub
 theme: minima
 
-# Páginas do menu superior
 header_pages:
   - index.md
 
 markdown: kramdown
+
+# Força o Jekyll a ignorar arquivos do RStudio e do Git que travam o build
+exclude:
+  - .Rproj.user
+  - cristoffersantos22-alt.github.io.Rproj
+  - .github
+  - .gitignore
+  - .gitattributes
+  - LICENSE
+  - LICENSE.txt
+  - README.md
+  - screenshot.PNG
