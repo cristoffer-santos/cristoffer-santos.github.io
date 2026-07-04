@@ -4,14 +4,11 @@ description: "Portfólio acadêmico e profissional. Projetos de estatística, an
 url: "https://cristoffer-santos.github.io"
 baseurl: ""
 
-# Ativando o tema limpo
+# Tema padrão limpo do GitHub
 theme: minima
 
-# Configurações extras do tema
+# Páginas do menu superior
 header_pages:
   - index.md
-  - sobre.md
 
 markdown: kramdown
-plugins:
-  - jekyll-feed
