@@ -13,9 +13,8 @@
 
 theme: jekyll-agency
 
-url    : "https://cristoffergregori.github.io" 
-baseurl: "/NOME-DO-SEU-REPOSITORIO"
-
+url    : "https://cristoffersantos22-alt.github.io"
+baseurl: ""
 title      : Your Awesome Website
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Site description"
