@@ -1,6 +1,7 @@
 ---
-layout: home
-title: Bem-vindo ao meu Portfólio
+layout: page
+title: Cristoffer Santos | Ciência de Dados
+permalink: /
 ---
 
 Olá! Sou o Cristoffer, estudante de Ciência de Dados na UFV. Aqui você encontra meus principais projetos, documentos e resoluções.
@@ -22,4 +23,3 @@ Resolução completa e estruturada das questões sobre a LGPD e ética em pesqui
 Estudo estatístico descritivo desenvolvido para análise de dados de produção e métricas comunitárias.
 
 <a href="./screenshot.PNG" target="_blank" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold;">🖼️ Visualizar Imagem do Projeto</a>
-<a href="https://github.com/cristoffer-santos" style="background-color: #6c757d; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold; margin-left: 10px;">💻 Ver Código no GitHub</a>
