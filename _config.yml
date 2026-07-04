@@ -1,24 +1,20 @@
-title: "Cristoffer Santos | Ciência de Dados"
+title: "Cristoffer Santos"
 author: "Cristoffer Gregori"
-description: "Portfólio acadêmico e profissional. Projetos de estatística, análise de dados e documentação."
+description: "Estudante de Ciência de Dados na UFV | Projetos, Análises Estatísticas e Soluções em Dados."
 url: "https://cristoffer-santos.github.io"
 baseurl: ""
 
 theme: minima
 
+# Configurações das abas do menu superior
 header_pages:
   - index.md
+  - projetos.md
+  - curriculo.md
+
+# Links das suas Redes Sociais (O tema Minima adiciona os ícones automaticamente no rodapé)
+twitter_username: 
+github_username:   cristoffer-santos
+linkedin_username: cristoffer-santos # Substitua pelo seu ID real do LinkedIn se for diferente
 
 markdown: kramdown
-
-# Força o Jekyll a ignorar arquivos do RStudio e do Git que travam o build
-exclude:
-  - .Rproj.user
-  - cristoffersantos22-alt.github.io.Rproj
-  - .github
-  - .gitignore
-  - .gitattributes
-  - LICENSE
-  - LICENSE.txt
-  - README.md
-  - screenshot.PNG
