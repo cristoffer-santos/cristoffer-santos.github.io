@@ -1,25 +1,16 @@
 ---
-layout: page
-title: Cristoffer Santos | Ciência de Dados
-permalink: /
+layout: home
+title: Início
 ---
 
-Olá! Sou o Cristoffer, estudante de Ciência de Dados na UFV. Aqui você encontra meus principais projetos, documentos e resoluções.
+# Olá, bem-vindo! 👋
+
+Sou o **Cristoffer**, estudante de **Ciência de Dados** na **Universidade Federal de Viçosa (UFV)**. 
+
+Este espaço foi desenvolvido para centralizar meus projetos acadêmicos, códigos de análise de dados, soluções estatísticas e documentos importantes da minha jornada profissional.
+
+Navegue pelas abas no menu superior para explorar:
+*   [**📊 Projetos**](/projetos/): Relatórios, códigos e análises visuais.
+*   [**💼 Currículo**](/curriculo/): Minha formação acadêmica, link para o meu LinkedIn e plataforma Lattes.
 
 ---
-
-## 📑 Trabalhos e Avaliações
-
-### Correção da Prova - EST 150 (Ética, Segurança e Integridade de Dados)
-Resolução completa e estruturada das questões sobre a LGPD e ética em pesquisa com seres humanos.
-
-<a href="https://github.com/cristoffer-santos/cristoffer-santos.github.io/blob/main/correção%20prova%20EST%20150.pdf" target="_blank" style="background-color: #0066cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold;">📄 Abrir PDF da Prova</a>
-
----
-
-## 📊 Galeria de Projetos
-
-### Análise Comparativa de Grupos
-Estudo estatístico descritivo desenvolvido para análise de dados de produção e métricas comunitárias.
-
-<a href="./screenshot.PNG" target="_blank" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold;">🖼️ Visualizar Imagem do Projeto</a>
